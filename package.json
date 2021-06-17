@@ -36,7 +36,7 @@
     "react-intersection-observer": "^8.29.1",
     "react-merge-refs": "^1.1.0",
     "react-ticker": "^1.2.2",
-    "tailwindcss": "^1.9"
+    "tailwindcss": "^2.2.0"
   },
   "devDependencies": {
     "@types/bunyan": "^1.8.6",
